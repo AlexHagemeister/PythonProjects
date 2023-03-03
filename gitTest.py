@@ -4,4 +4,4 @@ for i in range(100):
   print('Alan')
 
 
-list = ['a', 'b', 'c', '...']
+list = ['a', 'b', 'x', '...']
